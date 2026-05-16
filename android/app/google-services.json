@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "962890456787",
+    "firebase_url": "https://pdfup-532a2-default-rtdb.firebaseio.com",
+    "project_id": "pdfup-532a2",
+    "storage_bucket": "pdfup-532a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962890456787:android:325f3c0b07d272f1e6fe26",
+        "android_client_info": {
+          "package_name": "com.example.edutech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962890456787-4788gr14o5h0ojkt4e208p147ik8qp27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edutech",
+            "certificate_hash": "2f6cefb970a539f46cc901f19f1f3f2ef7c82764"
+          }
+        },
+        {
+          "client_id": "962890456787-o309hb8v7a4aa7g60lolm0f229l5s8im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7uzEjuK_lDfXkCYzfCBXtuDnz5N4_n1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113248606766216826865",
+              "client_type": 3
+            },
+            {
+              "client_id": "962890456787-0vtqvbh148i8amrrh1t0740opnrik5iv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hiringapps"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962890456787:android:834ae9a421e7305de6fe26",
+        "android_client_info": {
+          "package_name": "com.example.smart_call_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962890456787-ois3v6g7coqmf5cd4qh9n6ksnphnu566.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_call_app",
+            "certificate_hash": "2f6cefb970a539f46cc901f19f1f3f2ef7c82764"
+          }
+        },
+        {
+          "client_id": "962890456787-o309hb8v7a4aa7g60lolm0f229l5s8im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7uzEjuK_lDfXkCYzfCBXtuDnz5N4_n1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113248606766216826865",
+              "client_type": 3
+            },
+            {
+              "client_id": "962890456787-0vtqvbh148i8amrrh1t0740opnrik5iv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hiringapps"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962890456787:android:2cfbd01c83e2b17be6fe26",
+        "android_client_info": {
+          "package_name": "com.tripgenia.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962890456787-o309hb8v7a4aa7g60lolm0f229l5s8im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7uzEjuK_lDfXkCYzfCBXtuDnz5N4_n1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113248606766216826865",
+              "client_type": 3
+            },
+            {
+              "client_id": "962890456787-0vtqvbh148i8amrrh1t0740opnrik5iv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hiringapps"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962890456787:android:6edc0812cf73ae62e6fe26",
+        "android_client_info": {
+          "package_name": "com.tripgenia.tripgenia_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962890456787-o309hb8v7a4aa7g60lolm0f229l5s8im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7uzEjuK_lDfXkCYzfCBXtuDnz5N4_n1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113248606766216826865",
+              "client_type": 3
+            },
+            {
+              "client_id": "962890456787-0vtqvbh148i8amrrh1t0740opnrik5iv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hiringapps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
